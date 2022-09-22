@@ -26,47 +26,5 @@
         "Email": "Dalia@gmail.com",
         "Salary": 19000,
         "Age": 23
-    },
-    {
-        "Id": 5,
-        "Name": "Saad",
-        "Email": "Saad@gmail.com",
-        "Salary": 24000,
-        "Age": 32
-    },
-    {
-        "Id": 6,
-        "Name": "Nagda",
-        "Email": "Nagda@gmail.com",
-        "Salary": 29000,
-        "Age": 41
-    },
-    {
-        "Id": 7,
-        "Name": "Salwa",
-        "Email": "Salwa@gmail.com",
-        "Salary": 20000,
-        "Age": 27
-    },
-    {
-        "Id": 8,
-        "Name": "Fady",
-        "Email": "Fady@gmail.com",
-        "Salary": 24500,
-        "Age": 22
-    },
-    {
-        "Id": 9,
-        "Name": "Samy",
-        "Email": "Samy@gmail.com",
-        "Salary": 34000,
-        "Age": 37
-    },
-    {
-        "Id": 10,
-        "Name": "Moe",
-        "Email": "Moe@gmail.com",
-        "Salary": 54000,
-        "Age": 62
     }
 ]
